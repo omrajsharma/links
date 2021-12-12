@@ -52,6 +52,10 @@ header p {
 }
 
 /* main links style */
+main {
+    max-width: 550px;
+    margin: auto;
+}
 .links {
     text-align: center;
     margin: auto;
@@ -71,8 +75,8 @@ header p {
     background-color: rgba(255, 255, 255, .30);  
     backdrop-filter: blur(15px);
     transition: 0.2s;
-
 }
+
 a {
     text-decoration: none;
     color: white;
